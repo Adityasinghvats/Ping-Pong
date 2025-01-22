@@ -1,0 +1,11 @@
+﻿  BouncingBall.cpp
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(21,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(21,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(21,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(41,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(42,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(65,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(127,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(129,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adity\SFML\BouncingBall\BouncingBall\BouncingBall.cpp(132,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BouncingBall.vcxproj -> C:\Users\adity\SFML\BouncingBall\x64\Debug\BouncingBall.exe
